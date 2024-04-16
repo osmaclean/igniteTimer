@@ -5,6 +5,7 @@
   <a href="#descrição"><li>Descrição</li></a>
   <a href="#interfaces"><li>Interfaces</li></a>
   <a href="#estrutura-do-projeto"><li>Estrutura do projeto</li></a>
+  <a href="#deployment-"><li>Configuração de Desenvolvimento</li></a>
   <a href="#como-rodar"><li>Como rodar</li></a>
 </ul>
 
@@ -35,6 +36,12 @@ Modo Mobile 📲 - Em desenvolvimento 🚧
 
 ### IDE Utilizada
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+## Deployment ☁
+
+Deploy realizado pela plataforma Vercel. Clique no botão abaixo e acesse o projeto.<br>
+
+[![Ignite Timer](https://img.shields.io/badge/-CLIQUE%20AQUI-yellowgreen)](https://ignite-timer-seven-chi.vercel.app/)
 
 ## Como rodar
 
