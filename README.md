@@ -10,7 +10,7 @@
 </ul>
 
 ### Descrição
-Projeto construído com o conceito de pomodoro, onde aprimorei minhas skills em StyledComponents, TypeScript, React.js e Vite. Utilizei algumas bibliotecas para o meu auxílio no desenvolvimento, como: Immer (Uma forma de trabalhar com imutabilidade de uma forma mais simples), React Hook Forms (Realizando algumas validações utilizando o hook form resolvers) e também utilizei a biblioteca Zodrealizado na formação de React.js da Rocketseat. 🚀
+Projeto construído com o conceito de pomodoro, onde aprimorei minhas skills em StyledComponents, TypeScript, React.js e Vite. Utilizei algumas bibliotecas para o meu auxílio no desenvolvimento, como: Immer (Uma forma de trabalhar com imutabilidade de uma forma mais simples), React Hook Forms (Realizando algumas validações utilizando o hook form resolvers) e também utilizei a biblioteca Zod realizado na formação de React.js da Rocketseat. 🚀
 
 <hr>
 
